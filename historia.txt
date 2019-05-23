@@ -1,5 +1,7 @@
-Hola esta es una pequeña descripción
-Soy Cristopher Gonzalez, tengo 27 años y naci en Santiago de Chile
+Hola esta es una pequeña biografia
+Soy Cristopher Gonzalez,
+tengo 27 años y naci en Santiago de Chile,
+hoy vivo en Coyhaique y busco un trabajo como desarrollador.
 Adios :)
 
 
